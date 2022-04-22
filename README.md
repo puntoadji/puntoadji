@@ -1,4 +1,4 @@
-<img style="width: 250px; height: auto; margin:auto; text-align:center; display:block;" src="animation.svg">
+<center><img style="width: 250px; height: auto; margin:auto; text-align:center; display:block;" src="animation.svg"></center>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daffa Azhar</h1>
 <h3 align="center">I'm a passionate Website/Application Developer from Indonesia and Active Challenger at <a href="dicoding.com">Dicoding</a>.</h3>
@@ -69,7 +69,7 @@
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="#">
     <img src="https://komarev.com/ghpvc/?username=daffaazhar">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/daffaazhar?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/daffaazhar?tab=followers"><img src="https://img.shields.io/github/followers/daffaazhar?label=Followers&style=social" alt="GitHub Badge"></a>
