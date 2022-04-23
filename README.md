@@ -1,11 +1,11 @@
 <p align="center"><img style="width: 250px; height: auto;" src="https://raw.githubusercontent.com/daffaazhar/daffaazhar/master/animation.svg"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daffa Azhar</h1>
-<h3 style="margin-bottom: 0;" align="center">I'm a passionate Website/Application Developer from Indonesia and Active Challenger at <a href="dicoding.com">Dicoding</a>.</h3>
+<h3 style="margin-bottom: 0;" align="center">I'm a passionate Website/Application Developer from Indonesia</h3>
 <br>
 
 ## 🙋‍♂️ About Me
-- I’m currently working on **[URL Shorterner Website](https://covid-19-tracker-e4bda.web.app/)**
+- I'm an intermediate **Javascript developer**.
 - I’m currently learning **PHP and MySQL**
 - I’m looking to collaborate on **Open Source Projects**
 - All of my projects are available at **[My Portfolio](https://github.com/daffaazhar)**
