@@ -1,7 +1,7 @@
 <p align="center"><img style="width: 250px; height: auto;" src="https://raw.githubusercontent.com/daffaazhar/daffaazhar/master/animation.svg"></p>
 
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daffa Azhar</h2>
-<h4 style="margin-bottom: 0;" align="center">I'm a passionate Website/Application Developer from Indonesia</h4>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daffa Azhar</h1>
+<h3 style="margin-bottom: 0;" align="center">I'm a passionate Website/Application Developer from Indonesia</h3>
 <br>
 
 ## 🙋‍♂️ About Me
