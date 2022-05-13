@@ -56,7 +56,7 @@
 ## Connect with me:
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/daffaazhar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/daffaazharr"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/daffa_dapu/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
