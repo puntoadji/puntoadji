@@ -1,15 +1,15 @@
 <p align="center"><img style="width: 250px; height: auto;" src="https://raw.githubusercontent.com/daffaazhar/daffaazhar/master/animation.svg"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daffa Azhar</h1>
-<h3 style="margin-bottom: 0;" align="center">I'm a passionate Website/Application Developer from Indonesia</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Punto Adji Bhirawa</h1>
+<h3 style="margin-bottom: 0;" align="center">I'm a passionate to Machine Learning/Artificial Intelligence from Indonesia</h3>
 <br>
 
 ## 🙋‍♂️ About Me
-- I'm an intermediate **Javascript developer**.
-- I’m currently learning **PHP and MySQL**
+- I'm an intermediate **Python**.
+- I’m currently learning **C++ and MySQL**
 - I’m looking to collaborate on **Open Source Projects**
-- All of my projects are available at **[My Portfolio](https://github.com/daffaazhar)**
-- How to reach me: **daffaazharsda@gmail.com**
+- All of my projects are available at **[My Portfolio](https://github.com/puntoadji)**
+- How to reach me: **puntoadji03@gmail.com**
 - Fun fact: **I am very enthusiastic about the topic of technology**
   <br/>
   <br/>
@@ -45,7 +45,7 @@
     <a href="https://github.com/puntoadji/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=puntoadji&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 <p>
-  <a href="https://github.com/puntoadji/github-readme-stats"><img alt="Daffa Azhar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puntoadji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/puntoadji/github-readme-stats"><img alt="Punto Adji's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puntoadji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
@@ -56,9 +56,8 @@
 ## Connect with me:
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/daffaazhar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/daffaazharr"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/daffa_dapu/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/punto-adji-bhirawa-151731295/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/puntoadji30/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers
